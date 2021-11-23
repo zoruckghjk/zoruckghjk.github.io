@@ -1,0 +1,17 @@
+<html>
+<style type="text/css">
+	q{color: #BA55D3:;padding: 10px;background-color: #F5DEB3	;border: 5px solid #7FFFD4	;font-size: 20;}
+</style>
+<h1>My second practice</h1>
+<hr>
+<p>I'm a student at <abbr title="National Taipei University">NTPU<abbr></p>
+<hr>
+<p>My faverite saying is</p>
+<blockquote><q>The shortest wayto do many things is <u>to do only one thing </u>at a time.</q></blockquote>
+<blockquote>By <address><a href="https://en.wikipedia.org/wiki/Samuel_Smiles">Samuel Smiles</a></address></blockquote>
+<hr>
+<h2>Mathematic<br> and<br> Chemical</h2>
+<center>17<sup>3</sup>=4913</center>
+<center>10<sup>0</sup>=1=<del> 0 </del>=</center>
+<center>C<sub>6</sub>H<sub>12</sub>O<sub>6</sub></center>
+</html>
