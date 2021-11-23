@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<style>
+	body{background-color: #faebd7;}
+	h1{color: #f5f5f5; border: 5px solid rgb(135,206,235); background-color: hsl(282, 100%, 42%);}
+    .hr{border: 3px solid #663399;}
+    .bigp{font-size: 25px; background-color: blueviolet;color: rgb(245, 255, 250);}
+    p{color: #66cdaa;}
+    #bigh6{font-size: 50px; color: rgb(110, 33, 93);}
+    #h2{color: hsl(119, 16%, 37%);}
+    .smallh6{color: FireBrick;}
+</style>
+<h1>My fifth practice</h1>
+<hr class="hr">
+<h2 id="h2">This is a normal h2.</h2>
+<p>This is a normal p.</p>
+<p class="bigp">This p is bigger than the h2.</p>
+<h6 id="bigh6">Although it is h6, it's larger than h1!!</h6>
+<h6 class="smallh6">This also is h6, but their color are different.</h6>
+</html>
