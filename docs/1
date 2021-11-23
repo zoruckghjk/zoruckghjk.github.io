@@ -1,0 +1,14 @@
+<html>
+	<head>
+		<title>My First Website</title>
+	</head>
+	<body>
+		<a href="https://new.ntpu.edu.tw/">NTPU</a>
+		<h1>Hi,yeah</h1>
+		<p>I'm a student at NTPU.My habit is taking a stroll because it can let me relax my feeling.<p>
+		<h2>These words are smaller than h1.</h2>
+		<p>This is a normal paragrath.</p>
+		<h2>Exception:</h2>
+		<p>I can write a well program to help me at future.</p>
+	</body>
+</html>
