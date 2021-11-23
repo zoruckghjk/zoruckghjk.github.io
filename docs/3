@@ -1,0 +1,33 @@
+<html>
+<style>
+body {
+  background-color: Lavender;
+}
+</style>
+<h1>My third practice</h1>
+<hr>
+    <p>This is my school.
+    	<figure>
+	    <img
+	        src="https://storage.googleapis.com/www-cw-com-tw/article/202011/article-5fa4ede451c81.jpg"
+	        alt="NTPU"
+	        title="My school"
+	        width="320"
+	        height="200"
+	        align="middle">
+	        <figcaption>This rock is in front of the gress. </figcaption>
+	    </figure><br>
+	   And this academy is my choise.
+	   <figure>
+	    <img
+	        src="images/academy.gif"
+	        alt="College of Commerce"
+	        title="College of Commerce"
+	        width="320"
+	        height="200"
+	        align="middle">
+	        <figcaption>This academy is on the right of the gress.</figcaption>
+	    </figure><br>
+        This is my pleasure to study in this school.
+    </p>
+</html>
