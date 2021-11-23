@@ -1,0 +1,21 @@
+<html>
+<style>
+    body{background-color: LightCyan;}
+</style>
+ <h1 id="top">First practice</h1><hr>
+ <a href="#About_me">About me<a><br><br>
+ <a href="#My_habits">My habits</a><br><br>
+ <a href="#A_Specific_Place">A Specific Place<a><br><br>	
+<hr><br><br><br><br><br><br><br><br><br><br><br><br><hr>
+ <h2 id="About_me">About me</h2>
+ <p>I'm a student major in statistics in<a href="https://new.ntpu.edu.tw/"><em><b>NTPU</b></em></a>.</p><br><br><br><br><br><br><br><br><br><br><br><br><hr>
+ <h2 id="My_habits">My habits</h2>
+ <p>My habits are taking a stroll and doing mathematics.<br>
+ 	Taking a stroll make me relax my feeling. When I hase some bad feeling, I will do it to think someing to help me relax.<br>
+ And doing math let my logic keep clearly. Doing it also can enhance mathematic skills.</p><br><br><br><br><br><br><br><br><br><br><br><br><hr>
+<h2 id="A_Specific_Place">A Specific Place</h2>
+ <p>hehehe,hay hay hay!!</p><br><br><br><br><br><br><br><br><br><br><br><br>
+ <a href="./Week_4_2.html">The Second practice</a>
+ <p>Congratulations!!</p>
+ <p><a href="#top">Top</a></p>
+</html>
